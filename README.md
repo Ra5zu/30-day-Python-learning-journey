@@ -9,3 +9,5 @@ After 30 days I will probably extend this challenge.
 1: Setting up GitHub account and adding this repo.
 
 2: Write a script that prints a multiplication table.
+
+3: Write a simple calculator in Python.
