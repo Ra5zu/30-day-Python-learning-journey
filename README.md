@@ -13,3 +13,5 @@ After 30 days I will probably extend this challenge.
 3: Write a simple calculator in Python.
 
 4: Write guess the number game. 
+
+5: Create a simple todo app
